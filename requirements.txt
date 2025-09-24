@@ -1,0 +1,21 @@
+# General Purpose
+numpy
+pandas
+opencv-python
+scikit-learn
+joblib
+tqdm
+ipykernel
+jupyter
+
+# Deep Learning
+torch
+torchvision
+ultralytics
+mediapipe
+pytorchvideo
+imblearn
+
+# Visualization
+matplotlib
+seaborn
