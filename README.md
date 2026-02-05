@@ -111,6 +111,4 @@ For training the model on a new dataset, you can use the `trainingv2.ipynb` note
 
 ***
 
-## Contact 📧
 
-For any questions, feedback, or collaboration inquiries, please feel free to reach out. We are always looking to improve and expand the capabilities of this project!
